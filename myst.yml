@@ -1,0 +1,34 @@
+version: 1
+project:
+  title: OpenSense Software
+  github: https://github.com/OpenSenseAction/OpenSenseAction.github.io
+  # Uncomment and adjust once the repo is on GitHub
+  # jupyter:
+  #   binder:
+  #     url: https://mybinder.org
+  #     repo: OpenSenseAction/OpenSenseAction.github.io
+  #     ref: main
+  toc:
+    - file: index.md
+    - title: poligrain
+      children:
+        - file: poligrain/index.md
+        - file: poligrain/tutorial.ipynb
+    - title: pycomlink
+      children:
+        - file: pycomlink/index.md
+        - file: pycomlink/tutorial.ipynb
+    - title: pypwsqc
+      children:
+        - file: pypwsqc/index.md
+        - file: pypwsqc/tutorial.ipynb
+    - title: mergeplg
+      children:
+        - file: mergeplg/index.md
+        - file: mergeplg/tutorial.ipynb
+    - title: Combined workflows
+      children:
+        - file: combined/workflow.ipynb
+site:
+  title: OpenSense Software
+  template: book-theme
