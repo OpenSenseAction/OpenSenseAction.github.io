@@ -35,6 +35,7 @@ site:
   title: OpenSense Software
   template: book-theme
   logo: assets/opensense_logo.png
+  favicon: assets/opensense_logo_small.png
   nav:
     title: OpenSense Software
   footer:
