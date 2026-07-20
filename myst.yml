@@ -12,12 +12,12 @@ project:
     - file: intro/index.md
     - title: Software Ecosystem
       children:
-        - file: software-ecosystem/overview/index.md
-        - file: poligrain/tutorial.ipynb
-        - file: pycomlink/tutorial.ipynb
-        - file: pypwsqc/tutorial.ipynb
-        - file: mergeplg/tutorial.ipynb
-        - file: combined/workflow.ipynb
+        - file: software-ecosystem/index.md
+        - file: software-ecosystem/poligrain.ipynb
+        - file: software-ecosystem/pycomlink.ipynb
+        - file: software-ecosystem/pypwsqc.ipynb
+        - file: software-ecosystem/mergeplg.ipynb
+        - file: software-ecosystem/combined.ipynb
     - title: Related Software Packages
       collapsed: true
       children:
