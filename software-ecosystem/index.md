@@ -16,7 +16,7 @@ For applications requiring multi-sensor processing or data merging, these packag
 
 ## Design Principles
 
-The ecosystem leverages the OpenSense common standard for data and metadata structure in NetCDF files ([Fencl et al., 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10884596/)), enabling:
+The ecosystem leverages the OpenSense common standard for data and metadata structure in NetCDF files ([Fencl et al., 2023](https://doi.org/10.12688/openreseurope.16068.2)), enabling:
 
 - Simplified function calls with assumed data/metadata structure
 - Automatic handling of geographic location information
