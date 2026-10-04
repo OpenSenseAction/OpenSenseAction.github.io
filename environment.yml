@@ -7,7 +7,7 @@ dependencies:
   - jupyterlab
   - ipykernel
   - pip:
-    - poligrain
-    - pycomlink
-    - pypwsqc
-    - mergeplg
+    - poligrain==0.3.1
+    - pycomlink==0.6.0
+    - pypwsqc==0.2.1
+    - mergeplg==0.1.0
