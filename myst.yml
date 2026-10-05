@@ -37,6 +37,7 @@ project:
         - file: related-software/pyNNCML/index.md
         - file: related-software/RainfallQC/index.md
         - file: related-software/legacy-packages/index.md
+    - file: contributing.md
 
 site:
   title: OpenSense Software
