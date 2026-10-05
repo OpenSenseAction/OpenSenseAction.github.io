@@ -8,5 +8,9 @@ Merging CML data improves radar QPE, with reductions in mean absolute error (MAE
 
 The merging framework and intercomparison study are openly available at https://github.com/OpenSenseAction/radar_adjustment_intercomparison, enabling reproducibility and further exploration.
 
-![Figure 2 from the preprint](../assets/merging_intercomparison_fig2_from_preprint.png){width="600px"}
-*Figure taken from [Øydvin et al. (2025)](https://doi.org/10.5194/egusphere-2025-6371); more details are available in the paper.*
+```{figure} ../assets/merging_intercomparison_fig2_from_preprint.png
+:width: 600px
+:align: center
+
+Figure taken from [Øydvin et al. (2025)](https://doi.org/10.5194/egusphere-2025-6371); more details are available in the paper.
+```

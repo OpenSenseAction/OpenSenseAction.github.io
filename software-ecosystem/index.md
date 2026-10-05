@@ -11,8 +11,12 @@ Above `poligrain` sit the specialized processing packages which are focused on s
 
 For applications requiring multi-sensor processing or data merging, these packages are imported together with other specialized tools (e.g., wradlib for radar data).
 
-![OpenSense Software Ecosystem Architecture](../assets/opensense_software_ecosystem.png){width="600px"}
-*Figure: OpenSense software ecosystem architecture (from [Chwala et al., 2026](https://egusphere.copernicus.org/preprints/2026/egusphere-2025-5438/)).*
+```{figure} ../assets/opensense_software_ecosystem.png
+:width: 600px
+:align: center
+
+OpenSense software ecosystem architecture (from [Chwala et al., 2026](https://egusphere.copernicus.org/preprints/2026/egusphere-2025-5438/)).
+```
 
 ## Design Principles
 
