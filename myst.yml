@@ -18,25 +18,9 @@ project:
         - file: software-ecosystem/pypwsqc.ipynb
         - file: software-ecosystem/mergeplg.ipynb
         - file: software-ecosystem/combined.ipynb
-    - title: Usage examples
-      collapsed: true
-      children:
-        - file: usage-examples/index.md
-        - file: usage-examples/cml_processing_method_intercomparison.md
-        - file: usage-examples/radar_merging_method_intercomparison.md
-    - title: Training Schools
-      collapsed: true
-      children:
-        - file: training-schools/index.md
-        - file: training-schools/merging-workshop/index.md
-        - file: training-schools/other-workshops/index.md
-    - title: Related Software Packages
-      collapsed: true
-      children:
-        - file: related-software/index.md
-        - file: related-software/pyNNCML/index.md
-        - file: related-software/RainfallQC/index.md
-        - file: related-software/legacy-packages/index.md
+    - file: real_world_usage_examples.md
+    - file: training-schools.md
+    - file: related-software.md
     - file: contributing.md
 
 site:

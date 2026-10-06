@@ -6,8 +6,9 @@ Documentation and examples for the OpenSense software ecosystem. The documentati
 
 - `intro/` – introduction
 - `software-ecosystem/` – notebooks for the main packages (poligrain, pycomlink, pypwsqc, mergeplg)
-- `related-software/` – related packages (pyNNCML, RainfallQC, legacy packages)
-- `training-schools/` – workshop and training materials
+- `real_world_usage_examples.md` – real-world usage examples and method intercomparisons
+- `training-schools.md` – workshop and training materials
+- `related-software.md` – related packages (pyNNCML, RainfallQC, legacy packages)
 
 ## Build the docs locally
 
