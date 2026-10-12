@@ -1,4 +1,4 @@
-# Overview
+# OpenSense and its software ecosystem
 
 The [OpenSense](https://opensenseaction.eu/) COST Action brought together researchers and practitioners working on environmental sensing, with a focus on opportunistic sensors such as commercial microwave links (CMLs), satellite microwave links (SMLs), and personal weather stations (PWS). **Working Group 2 (WG2)** was responsible for harmonizing the software ecosystem, aligning interfaces, data formats, and best practices across the community's tools.
 

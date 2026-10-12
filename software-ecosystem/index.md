@@ -1,8 +1,8 @@
-# Overview
+# Overview of the OpenSense software ecosystem
 
 ## Architecture
 
-The OpenSense software ecosystem follows a layered architecture designed for modularity and flexibility. At the foundation lies `poligrain` (for *po*int, *li*ne, *g*id *rain*fall data) which provides core functionalities common to processing and analyzing CML, SML, and PWS data. This foundational layer avoids interdependencies between processing packages that would occur if one package imported another to use specific implementations.
+The OpenSense software ecosystem follows a layered architecture. At the foundation lies `poligrain` (for *po*int, *li*ne, *g*id *rain*fall data) which provides core functionalities common to processing and analyzing CML, SML, and PWS data. This foundational layer avoids interdependencies between processing packages that would occur if one package imported another to use specific implementations.
 
 Above `poligrain` sit the specialized processing packages which are focused on specific sensor data or methods:
 - `pycomlink` is designed for processing CML data, including quality control and rainfall estimation
