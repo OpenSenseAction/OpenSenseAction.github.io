@@ -10,10 +10,10 @@ project:
   #     ref: main
   toc:
     - file: intro/index.md
-    - title: Software Ecosystem
+    - file: software-ecosystem/index.md
+      title: Software Ecosystem
       open: true
       children:
-        - file: software-ecosystem/index.md
         - file: software-ecosystem/poligrain.ipynb
         - file: software-ecosystem/pycomlink.ipynb
         - file: software-ecosystem/pypwsqc.ipynb
