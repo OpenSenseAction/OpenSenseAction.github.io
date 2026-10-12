@@ -8,3 +8,7 @@ __pycache__/
 .ipynb_checkpoints/
 .env
 *.nc
+
+# Do not ignore certain small example data files that are not yet on the OpenSense example data repository
+!misc/example_data/opensat4weather_example_sml.nc
+!misc/example_data/opensat4weather_example_radar.nc
