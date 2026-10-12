@@ -21,6 +21,13 @@ In the [cml_method_benchmarking repository](https://github.com/OpenSenseAction/c
 
 Additional notebooks are available that can be used to explore the reference data from openMRG and to derive radar data along the CMLs' paths.
 
+```{figure} assets/cml_wet_dry_benchmarking_preliminary.png
+:width: 900px
+:align: center
+
+Preliminary results from the CML processing method benchmarking study, showing performance comparisons for different wet-dry classification methods. Note that these results are preliminary and a paper with the full analysis is forthcoming.
+```
+
 ## Radar Merging Method Intercomparison
 
 Intercomparison of different methods for merging radar rainfall data with CMLs using `mergeplg`.
