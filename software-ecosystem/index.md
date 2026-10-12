@@ -28,10 +28,8 @@ The ecosystem leverages the OpenSense common standard for data and metadata stru
 
 ## Quick intro to the individual packages
 
-Explore the individual packages through their 5-minute quick-tour notebooks below. Each notebook gives a brief overview of the core functionality of the respective package and links to the full package documentation.
+Explore the individual packages through their quick-tour notebooks accesible from the sidebar navigation menu on the left. Each notebook gives a brief overview of the core functionality of the respective package and links to the full package documentation. 
 
-- **`poligrain`** – core data handling, plotting and spatial analysis for point, line and grid rainfall data
-- **`pycomlink`** – processing of Commercial Microwave Link (CML) data, from raw signal to rain rate
-- **`pypwsqc`** – quality control of Personal Weather Station (PWS) data
-- **`mergeplg`** – merging rainfall data from multiple sensors with gridded data
-- **`combined`** – an example workflow combining all packages of the ecosystem
+A combined workflow notebook demonstrates how the different packages can be used together in a typical analysis. 
+
+Additionally, a small example for SML data processing is provided, albeit without using a real software package because such a package does not yet exist.
