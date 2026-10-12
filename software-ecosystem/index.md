@@ -1,4 +1,4 @@
-# Software Ecosystem Overview
+# Overview
 
 ## Architecture
 
