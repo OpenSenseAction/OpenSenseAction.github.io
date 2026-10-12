@@ -4,12 +4,8 @@ These are related projects and tools that complement the OpenSense ecosystem.
 
 ## pyNNCML
 
-pyNNCML is a related software package for neural network-based classification of meteorological data.
+pyNNCML https://github.com/haihabi/PyNNcml is a software package for processing of CML and SML data with a focus on neural network-based methods.
 
 ## RainfallQC
 
-RainfallQC provides quality control tools for rainfall measurement data.
-
-## Legacy Packages
-
-Documentation for legacy OpenSense packages that are no longer actively maintained.
+RainfallQC https://github.com/NERC-CEH/RainfallQC provides quality control tools for rain gauge data. It implements the filters from the Global Sub-Daily Rainfall Quality Control (GSDR-QC) and also allows to call methods from `pypwsqc`.
