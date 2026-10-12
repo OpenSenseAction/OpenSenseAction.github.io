@@ -12,7 +12,6 @@ project:
     - file: intro/index.md
     - file: software-ecosystem/index.md
       title: Software Ecosystem
-      open: true
       children:
         - file: software-ecosystem/poligrain.ipynb
         - file: software-ecosystem/pycomlink.ipynb
