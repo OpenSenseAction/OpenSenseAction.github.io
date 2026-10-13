@@ -13,9 +13,9 @@ This content of this training school was:
 
 Website: https://indico.kit.edu/e/opensense_training_school_2025
 
-https://github.com/OpenSenseAction/TrainingSchoolMergingApplication
+Materials: https://github.com/OpenSenseAction/TrainingSchoolMergingApplication
 
-OpenSense News: https://opensenseaction.eu/news/opensense-training-school-1-4-april-2025-budaptest-a-wrap-up/
+Summary on OpenSense website: https://opensenseaction.eu/news/opensense-training-school-1-4-april-2025-budaptest-a-wrap-up/
 
 ## Training school on software and methods for data processing from opportunistic rainfall sensors
 
