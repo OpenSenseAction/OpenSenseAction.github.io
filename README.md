@@ -13,8 +13,7 @@ Documentation and examples for the OpenSense software ecosystem. The documentati
 ## Build the docs locally
 
 ```bash
-mamba env create -f environment.yml
-mamba activate opensense-software
+uv sync
 npm install -g mystmd
 myst build .
 ```
@@ -24,8 +23,7 @@ myst build .
 The example notebooks in `software-ecosystem/` can be run interactively in JupyterLab:
 
 ```bash
-mamba activate opensense-software
-jupyter lab
+uv run jupyter lab
 ```
 
 ## License
