@@ -2160,7 +2160,7 @@ requires-dist = [
     { name = "mergeplg", specifier = "==0.1.0" },
     { name = "poligrain", specifier = "==0.3.1" },
     { name = "pycomlink", specifier = "==0.6.0" },
-    { name = "pypwsqc", specifier = "==0.2.1" },
+    { name = "pypwsqc", specifier = "==0.3.0" },
 ]
 
 [[package]]
@@ -2718,7 +2718,7 @@ wheels = [
 
 [[package]]
 name = "pypwsqc"
-version = "0.2.1"
+version = "0.3.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "bottleneck" },
@@ -2730,9 +2730,9 @@ dependencies = [
     { name = "tqdm" },
     { name = "xarray" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/1e/e9/ccd273a013b66556642f2c22dfbc02c7f171ad23ad6898307f51c3cb885b/pypwsqc-0.2.1.tar.gz", hash = "sha256:6db000c74a36bd5487056d276d2fd4e57e62a3860faa4047be5d90b02d5d1ba1", size = 16889, upload-time = "2025-08-05T18:11:23.081Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/02/2c/5f632a45c752c04575a037303acbf05d962fea92ec54ff7fa8628146efd8/pypwsqc-0.3.0.tar.gz", hash = "sha256:018dc4c8424c1ea6a01b275a8fa899ba9f1c4cb494c449e85ea3dbe25c048497", size = 20117, upload-time = "2026-10-14T09:49:52.478Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/02/4e/370b003d54c86bae2f67c4d54757789c280536ffc68cfb62af45eae3df30/pypwsqc-0.2.1-py3-none-any.whl", hash = "sha256:cd47783b926fa6afb46f5ba76c9702c8c50b9d2f411774d7b9ea815c9e9526a0", size = 17362, upload-time = "2025-08-05T18:11:21.682Z" },
+    { url = "https://files.pythonhosted.org/packages/e7/ec/e3e2339e27c3ada0321af34525e5084f6f201b64ecefe5c23845ea354b08/pypwsqc-0.3.0-py3-none-any.whl", hash = "sha256:1acf33d74e8551c65f946921da23a57ae69b7526ab2134e9389332502307ada7", size = 21018, upload-time = "2026-10-14T09:49:51.236Z" },
 ]
 
 [[package]]
